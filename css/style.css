@@ -178,6 +178,41 @@ address span{
 	line-height:1.7em;
 }
 
+.GitHub {
+	margin:2em 0;
+}
+.GitHub h3{
+  color: #FFF;
+  padding: 5px 41px 5px 30px;
+  display: inline-block;
+}
+.GitHub_details{
+	padding:1.5em 0 0em 2em;
+}
+.GitHub_details h4{
+	color:#333;
+	font-weight:600;
+	font-size:1.5em;
+	margin-bottom:6px;
+	font-family: 'Varela Round', sans-serif;
+}
+.GitHub_details h4 span{
+	font-size: 0.65em;
+  margin-left: 5px;
+  color: #999;
+  font-weight:400;
+}
+.GitHub_details h6{
+	font-weight:400;
+	margin-bottom:1.3em;
+	font-size:0.9em;
+}
+.GitHub_details p{
+	color:#999;
+	font-weight:300;
+	line-height:1.7em;
+}
+
 .cmpny1{
 	border-bottom:3px dashed #999;
 	padding-bottom:1em;
@@ -224,6 +259,9 @@ h3.clr2{
 }
 h3.clr3{
 	background:#3eb991;
+}
+h3.clr4{
+	background:#33b031;
 }
 .copywrite{
 	padding-left:2em;
